@@ -21,5 +21,7 @@
  ##
   
  <div>
+   
  ![Snake animation](https://github.com/brendonfernandes/brendonfernandes/blob/output/github-contribution-grid-snake.svg)  
+   
  </div>
